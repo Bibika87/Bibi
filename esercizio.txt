@@ -37,6 +37,10 @@ DATASET strutturati
         nel sito dell'iISTAT trovo una comodissima Query che mi restituisce il numero di abitanti per fascia di età per ogni capoluogo di provincia
         sistemo la tabella e creo un grafico che mi permette di capire l'età della popolazione di Verbania, la città piu piovosa d'italia
         in modo da capire su quali misure di stivali di gomma puntare.
-    
+    MEDIA Spesa delle famiglie
+         http://dati.istat.it/Index.aspx?QueryId=22919
+         nello stesso sito di dell'ISTAT trovo un'altra comodissima Query che mi restituisce la spesa media mensile per famiglia
+         sistemo la tabella per vedere i dati che mi servono e creo una tabella con i dati che mi servono
+
 
 
