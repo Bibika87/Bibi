@@ -1,0 +1,25 @@
+ESERCIZIO DEL 31/05/2023
+
+Dato e Informazione
+
+Argomento : Gli Stivali di Gomma
+
+Desiderata: In quale città aprire un negozio di stivali di Gomma?
+
+Dataset: 
+- 3 strutturati
+- 2 non strutturati
+
+Per ogni dataset strutturato individua gli attributi e l'identificativo;
+Per ogni dataset non strutturato descrivi le analisi che svolgeresti e l'obiettivo.
+
+Dataset strutturati
+- media precipitazioni 
+- media età popolazione
+- media reddito pro capite
+
+Dataset non strutturato
+- i trend del momento
+- la gomma reciclata
+
+
