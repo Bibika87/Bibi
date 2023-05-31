@@ -41,6 +41,11 @@ DATASET strutturati
          http://dati.istat.it/Index.aspx?QueryId=22919
          nello stesso sito di dell'ISTAT trovo un'altra comodissima Query che mi restituisce la spesa media mensile per famiglia
          sistemo la tabella per vedere i dati che mi servono e creo una tabella con i dati che mi servono
-
+DATASET NON strutturati
+    TREND DEL MERCATO
+        Sviluppo del settore calzaturiero
+        nella Bancadati Anpal servizi trovi una relazione in merito allo sviluppo del settore calzaturiero
+        nel quale posso capire come muovermi e strutturare la mia azienda in quanto sono presenti le analisi di mercato, i trend, i vincoli e le opportunità di mercato
+        
 
 
