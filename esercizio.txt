@@ -21,5 +21,22 @@ Dataset strutturati
 Dataset non strutturato
 - i trend del momento
 - la gomma reciclata
+_________________________________________________________________________-
+Elaborazione: 
+DATASET strutturati
+    MEDIA precipitazioni
+        https://www.istat.it/it/archivio/268397
+        dai sito dell'ISTAT scarico il dataset con i dati meterologici nei comuni capoluogo di provincia italiani
+        Analizzo i fogli del file excel e rinomino quelli di mio interesse. 
+        Sistemo l'intestazione delle colonne ed applico dei filtri 
+        nascondo le colonne coi dati che non mi servono in quanto ho deciso di prendere come riferimento solo il triennio 2018-2020
+        Seleziono le colonne che mi interessano e faccio un grafico per rendere l'informazione piu diretta
+        E decido di analizzare i dati della città di VERBANIA in quanto è la città piu piovosa d'italia
+    MEDIA età popolazione
+        http://dati.istat.it/Index.aspx?QueryId=42869
+        nel sito dell'iISTAT trovo una comodissima Query che mi restituisce il numero di abitanti per fascia di età per ogni capoluogo di provincia
+        sistemo la tabella e creo un grafico che mi permette di capire l'età della popolazione di Verbania, la città piu piovosa d'italia
+        in modo da capire su quali misure di stivali di gomma puntare.
+    
 
 
