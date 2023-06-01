@@ -1,0 +1,108 @@
+Le situazioni dove ho a che fare con i dati
+    per ogni situazione indicare:
+        - che tipo di dato uso e comunico?
+        - a cosa servono e a cosa possono servire chi li raccoglie?
+        - sono dati sensibili?
+        - posso evitare di comunicarli?
+        - ho fornito il consenso al trattamento dei dati?  
+______________________________________
+
+Esecuzione: 
+
+Situazioni: 
+    - Social
+    - Lavoro
+    - Bancomat
+    - geolocalizzazione del telefono
+    - Spotify
+    - Epic Games
+    - app messaggistica instantanea 
+
+    SOCIAL:
+        - che tipo di dato uso e comunico? 
+            ° le mie preferenze, dove sono, i miei gusti, le mie conoscenze, i miei dati personali, le mie foto
+        - a cosa servono e a cosa possono servire chi li raccoglie?
+            ° a fini di marketing 
+        - sono dati sensibili?
+            ° sì
+        - posso evitare di comunicarli?
+            ° a volte sì a volte no. bisogna leggersi per bene le impostazioni della privacy per 'tutelarsi'. ma non sempre si riesce ad evitare che i propri dati siano raccolti e divulgati.
+        - ho fornito il consenso al trattamento dei dati?    
+            ° sì...
+
+    LAVORO: 
+        - che tipo di dato uso e comunico?
+            ° dati aziendali in merito al consumo energetico, dati di bilancio, fatture, contratti energetici, progetti di impianti, numero di telefono, mail, nomi e cognomi.
+        - a cosa servono e a cosa possono servire chi li raccoglie?
+            ° mi servono ad analizzare l'efficenza energetica di una azienda, analisi energetiche di vario tipo.
+        - sono dati sensibili?
+            ° sì
+        - posso evitare di comunicarli?
+            ° no 
+        - ho fornito il consenso al trattamento dei dati?
+            ° le aziende con le quali lavoro hanno firmato un contratto ed anche io ho firmato un contratto che contiene la tutela della privacy mia e dei clienti che gestisco.      
+
+    BANCOMAT:
+        - che tipo di dato uso e comunico?
+            ° la mia posizione, cosa compro
+        - a cosa servono e a cosa possono servire chi li raccoglie?
+            ° ai fini di marketing
+        - sono dati sensibili?
+            ° sì
+        - posso evitare di comunicarli?
+            ° no
+        - ho fornito il consenso al trattamento dei dati?
+            ° sì, durante la sottoscrizione del contratto con la Banca  
+
+    GEOLOCALIZZAZIONE DEL TELEFONO:
+        - che tipo di dato uso e comunico?
+            ° la mia posizione, la mia routine, le mie interazioni con altri strimenti tecnologici.
+        - a cosa servono e a cosa possono servire chi li raccoglie?
+            ° ai fini di marketing
+        - sono dati sensibili?
+            ° sì
+        - posso evitare di comunicarli?
+            ° sì a volte mentre in altre volte sei obbligato ad accendere la geolocalizzazione per poter accedere ad in certo servizio
+        - ho fornito il consenso al trattamento dei dati? 
+            ° sì quando ho acceso il telefono per la prima volta
+
+    SPOTIFY 
+        - che tipo di dato uso e comunico?
+            ° musica, gusti musicali, posizione, le mie abitudini
+        - a cosa servono e a cosa possono servire chi li raccoglie?
+            ° ai fini di marketing
+        - sono dati sensibili?
+            ° sì
+        - posso evitare di comunicarli?
+            ° se voglio utilizzare l'applicazione no
+        - ho fornito il consenso al trattamento dei dati?       
+            ° sì, quando ho installato l'app
+
+    EPIC GAMES:
+        - che tipo di dato uso e comunico?
+            ° giochi in condivisione, posizione, preferenze, cerchia di conoscenze
+        - a cosa servono e a cosa possono servire chi li raccoglie?
+            ° ai fini di marketing
+        - sono dati sensibili?
+            ° sì
+        - posso evitare di comunicarli?
+            ° no
+        - ho fornito il consenso al trattamento dei dati?  
+            ° sì al momento della creazione del profilo 
+
+     APP MESSAGGISTICA INSTANTANEA:
+        - che tipo di dato uso e comunico?
+            ° le mie conoscenze, la mia posizione, foto, audio, le mie abitudini, le mie preferenze 
+        - a cosa servono e a cosa possono servire chi li raccoglie?
+            ° ai fini di marketing
+        - sono dati sensibili?
+            ° sì
+        - posso evitare di comunicarli?
+            ° no se voglio utilizzare il servizio no
+        - ho fornito il consenso al trattamento dei dati? 
+            ° sì al momento dell'installazione dell'app        
+         
+
+
+
+
