@@ -1,0 +1,21 @@
+08/06/2023
+D3 - Fonti dati, open data, Classificazione 5 stelle, metadati, csv
+
+Esercizio
+- recuperare 5 fonti situazione COVID al 2023 ( campi POSITIVI, RICOVERATI, MORTI )
+- in un doc indicare fonti, breve descrizione contenuto, descrizione campi e classificazione delle fonti 
+- dare un nome alle entità e agli atributi (campi) in modo descrittivo
+- definire chiave primaria per ogni tabella
+- descrivere in quale fase interviene ogniuna delle figure studiare 
+- metadati
+
+______________________________________________________-
+ 	- 5 fonti COVID 
+		Decessi Dovid 
+			https://www.istat.it/it/archivio/240401
+			https://www.ecdc.europa.eu/en/publications-data/data-daily-new-cases-covid-19-eueea-country
+		Positivi e Decessi
+			https://covid19.who.int/data
+			https://github.com/pcm-dpc/COVID-19/tree/master
+		Positivi, Decessi e Ricoverati
+			https://github.com/owid/covid-19-data/blob/master/public/data/cases_deaths/total_cases.csv
