@@ -11,7 +11,7 @@ Esercizio
 
 ______________________________________________________-
  	- 5 fonti COVID 
-		Decessi Dovid 
+		Decessi Covid 
 			https://www.istat.it/it/archivio/240401
 			https://www.ecdc.europa.eu/en/publications-data/data-daily-new-cases-covid-19-eueea-country
 		Positivi e Decessi
